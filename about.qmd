@@ -1,19 +1,18 @@
 ---
-title: "About"
+title: "Acerca de mí"
 image: profile.jpg
 about:
-  template: jolla
+  template: trestles
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+      href: https://www.linkedin.com/in/ignacio-zamora-quiroz-783a05208/
+comments: false
 ---
 
-About this blog
+Soy estudiante de economía en la Universidad Diego Portales, Santiago, Chile. Mis
+intereses son el área de la ciencia de datos, la medicina, la academia y docencia. Mis temas afines son el análisis de datos y la programación estadística. Tengo fuerte interés por el área de la gestión clínica y la economía de la salud. Me apasiona la enseñanza y el área académica, tanto la docencia como la investigación.
+
+He participado en organizaciones estudiantiles en pro de democratizar el conocimiento, ayudar a la comunidad y generar un vínculo entre lo real y lo posiblemente real.
+
+Tengo como objetivo especializarme en *\"Health Economics\"* y complementarlo con áreas estadísticas. Creo que es un sector de alto impacto y que puede llegar a ayudar a muchas personas.

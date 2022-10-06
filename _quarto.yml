@@ -6,14 +6,17 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ignacio-zamora-quiroz-783a05208/
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    smooth-scroll: true
+    theme:
+      light: flatly
+      dark: darkly
 
 editor: visual
 
+comments:
+  giscus:
+    repo: IgnacioZQ/Your-Health-In-Data
