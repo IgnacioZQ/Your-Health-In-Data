@@ -1,12 +1,27 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Desigualdad y Suicidio: El bienestar es igual de importante como la desigualdad"
+subtitle: "¿Tienen realmente los países con menor desigualdad tasas de suicidios más bajas?"
+author: "Ignacio Zamora"
 date: "2022-10-05"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [Salud, Economía, R]
+image: "Portada.jpg"
 ---
 
-This is a post with executable code.
+# *Economía al más estilo capitalista*
+
+La desigualdad ha sido campo de controversia desde hace décadas. Es claro el éxito económico que ha tenido en las sociedades la implementación de un mercado abierto entre naciones y la privatización de innumerables industrias. Hoy en día se suelen ver noticias y estudios sobre algunos países nórdicos y su caso de éxito económico enfocado en el bienestar social y la ciudadanía, o las políticas estadounidenses en pro de la globalización y generador de oprtunidades financieras en diversas partes del mundo.
+
+A partir de los años 60 el mundo fue introducido en un camino hacia el libre mercado y la diversificación de productos. Nacían teorías económicas enfocadas al comercio internacional y la disminución de barreras estatales. El argumento final de toda esta práctica era: *¿Por qué debe intervenir el Estado si el humano lo puede hacer de manera lógica en la sociedad?*.
+
+Sin embargo, si nos enfocamos en la otra cara de la moneda podemos visualizar un escenario distinto: Sociedades más desiguales, explotación medioambiental, vulnerabilidad social y alta volatilidad de crisis financiera.
+
+# *Salud y economía de la mano*
+
+La salud es un factor importante en la economía. Muchas veces se interpreta como *cuánto se preocupan nuestros gobernantes por nuestro bienestar personal*.
+
+Indirectamente, se pueden ver las tasas de suicidio como una manera indirecta de qué tan bien están nuestro ciudadanos. Se agrega de antemano que la desigualdad no es causante de los suicidios, sino que se busca una manera de relacionar dichos conceptos con algunos países.
+
+Para este caso, se usarán únicamente países de la OCDE hasta el año 2017 (Antes de la pandemia COVID-19).
 
 ```{r}
 1 + 1
