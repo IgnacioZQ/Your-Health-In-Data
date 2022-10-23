@@ -1,0 +1,28 @@
+---
+title: "Desigualdad y Suicidio: El bienestar es igual de importante como la desigualdad"
+subtitle: "¿Tienen realmente los países con menor desigualdad tasas de suicidios más bajas?"
+author: "Ignacio Zamora"
+date: "2022-10-05"
+categories: [Salud, Economía, R]
+image: "Portada.jpg"
+---
+
+# 📰 Resumen 📰
+
+Se quizo buscar alguna relación entre la tasa de suicidio y la desigualdad de ingresos (índice Gini) entre los países de la OCDE . Para ello, se tomaron datos directamente de la [base abierta de la OCDE](https://www.oecd.org/centrodemexico/estadisticas/), específicamente del año 2017.
+
+# 💰 *Suicidio y desigualdad* 🩺
+
+Para este caso, se usaron únicamente países de la OCDE hasta el año 2017 (Antes de la pandemia COVID-19).
+
+El gráfico está hecho en base a aquellos países que son parte de la OCDE hasta el año 2017.
+
+![](G_1.png){fig-align="center"}
+
+Se marcó la tasa de suicidios en color azul y la tasa de desigualdad en color naranja. El marco de desviación estándar entre los datos se hizo para evaluar la dispersión y el área de convergencia entre algunos países. Esto indica que los países tienden a tener una dispersión más acotada en la tasa de suicidio y una dispersión más extensa en el índice de desigualdad.
+
+Países como Chile, Costa Rica y Sudáfrica sobresalen del área de dispersión en el índice de desigualdad. Por otro lado, aquellos que se mantienen muy por debajo de la dispersión general de los datos están Eslovaquia, Eslovenia, Chequia e Islandia.
+
+Con foco en la tasa de suicidios, países como Lituania, Korea y Eslovequia destacan bastante con altas tasas de suicidio. Mientras que Sudáfrica, Grecia, Israel, Italia y Costa Rica mantiene bajas tasas en comparación a la dispersión general de los países.
+
+Como casos destacados, Sudáfrica es el país con mayor índice de desigualdad, pero con menor tasa de suicidios. Caso particular opuesto ocurre con Eslovaquia.
