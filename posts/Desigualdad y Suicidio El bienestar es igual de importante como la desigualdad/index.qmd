@@ -2,7 +2,7 @@
 title: "Desigualdad y Suicidio: El bienestar es igual de importante como la desigualdad"
 subtitle: "¿Tienen realmente los países con menor desigualdad tasas de suicidios más bajas?"
 author: "Ignacio Zamora"
-date: "2022-10-05"
+date: "2022-10-23"
 categories: [Salud, Economía, R]
 image: "Portada.jpg"
 ---
