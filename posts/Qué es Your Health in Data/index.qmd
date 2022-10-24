@@ -1,15 +1,17 @@
 ---
-title: "Que es Your Health in Data"
+title: "¿Qué es Your Health in Data?"
 author: "Ignacio Zamora"
-subtitle: "Comprende tu bienestar de la manera más facil y gráfica posible"
+subtitle: "Comprende tu salud y la de los demás de la manera más facil y gráfica posible."
 date: "2022-10-23"
 image: "Portada.jpg"
 ---
 
 # 📃 La salud desde los datos📝
 
-**Your Health in Data** es un proyecto de divulgación de información, evidencia y exposición de datos orientado principalmente al sector de la salud.
+**Your Health in Data** es un proyecto de "divulgación científica" el cual tiene por objetivo proveer información y evidencia de distintos tópicos del área de la salud, mediante la exposición de datos, gráficos y tablas.
 
-Desde gestión de la salud, productividad clínica, economía de la salud o epidemiología, Your Health in Data busca simplificar la información de la manera más directa, simple y compacta para entender de qué forma se relacionan ciertas variables del mundo clínico sobre la sociedad.
+Desde gestión de la salud, productividad clínica, economía de la salud o epidemiología, Your Health in Data busca simplificar la información de la manera más directa, simple y compacta para entender de qué forma se relacionan ciertas variables del mundo clínico sobre la las personas o la sociedad.
 
 Los programas de análisis estadísticos que se utilizan son R y Python, complementado con softwares de edición como Adobe Illustrator.
+
+El proyecto nació a partir de la divulgación de información clínica con un enfoque económico y productivo, centrado en las distintas áreas de la salud.
