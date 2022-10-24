@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Your Health In Data",
     "section": "",
-    "text": "¿Tienen realmente los países con menor desigualdad tasas de suicidios más bajas?\n\n\n\n\nSalud\n\n\nEconomía\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nOct 5, 2022\n\n\nIgnacio Zamora\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "¿Tienen realmente los países con menor desigualdad tasas de suicidios más bajas?\n\n\n\n\nSalud\n\n\nEconomía\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nOct 23, 2022\n\n\nIgnacio Zamora\n\n\n\n\n\n\n  \n\n\n\n\n\nComprende tu bienestar de la manera más facil y gráfica posible\n\n\n\n\n\n\n\n\n\nOct 23, 2022\n\n\nIgnacio Zamora\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -33,5 +33,12 @@
     "title": "Desigualdad y Suicidio: El bienestar es igual de importante como la desigualdad",
     "section": "",
     "text": "💰 Suicidio y desigualdad 🩺\nPara este caso, se usaron únicamente países de la OCDE hasta el año 2017 (Antes de la pandemia COVID-19).\nEl gráfico está hecho en base a aquellos países que son parte de la OCDE hasta el año 2017.\n\n\n\n\n\nSe marcó la tasa de suicidios en color azul y la tasa de desigualdad en color naranja. El marco de desviación estándar entre los datos se hizo para evaluar la dispersión y el área de convergencia entre algunos países. Esto indica que los países tienden a tener una dispersión más acotada en la tasa de suicidio y una dispersión más extensa en el índice de desigualdad.\nPaíses como Chile, Costa Rica y Sudáfrica sobresalen del área de dispersión en el índice de desigualdad. Por otro lado, aquellos que se mantienen muy por debajo de la dispersión general de los datos están Eslovaquia, Eslovenia, Chequia e Islandia.\nCon foco en la tasa de suicidios, países como Lituania, Korea y Eslovequia destacan bastante con altas tasas de suicidio. Mientras que Sudáfrica, Grecia, Israel, Italia y Costa Rica mantiene bajas tasas en comparación a la dispersión general de los países.\nComo casos destacados, Sudáfrica es el país con mayor índice de desigualdad, pero con menor tasa de suicidios. Caso particular opuesto ocurre con Eslovaquia."
+  },
+  {
+    "objectID": "posts/Qué es Your Health in Data/index.html",
+    "href": "posts/Qué es Your Health in Data/index.html",
+    "title": "Que es Your Health in Data",
+    "section": "",
+    "text": "Your Health in Data es un proyecto de divulgación de información, evidencia y exposición de datos orientado principalmente al sector de la salud.\nDesde gestión de la salud, productividad clínica, economía de la salud o epidemiología, Your Health in Data busca simplificar la información de la manera más directa, simple y compacta para entender de qué forma se relacionan ciertas variables del mundo clínico sobre la sociedad.\nLos programas de análisis estadísticos que se utilizan son R y Python, complementado con softwares de edición como Adobe Illustrator."
   }
 ]

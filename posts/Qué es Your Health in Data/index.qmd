@@ -1,5 +1,5 @@
 ---
-title: "¿Qué es Your Health in Data?"
+title: "Que es Your Health in Data"
 author: "Ignacio Zamora"
 subtitle: "Comprende tu bienestar de la manera más facil y gráfica posible"
 date: "2022-10-23"
